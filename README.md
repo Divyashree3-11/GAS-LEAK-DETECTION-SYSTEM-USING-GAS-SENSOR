@@ -6,10 +6,10 @@
 
 ## Hardware / Software Tools required:
 
-PC/ Laptop with Internet connection
-Tinker CAD tool (Online)
-Arduino UNO Board/ESP-32
-Gas sensor (MQ-2)
+PC/ Laptop with Internet connection,
+Tinker CAD tool (Online),
+Arduino UNO Board/ESP-32,
+Gas sensor (MQ-2).
 	
 ## Circuit Diagram:
 
